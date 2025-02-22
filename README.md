@@ -1,2 +1,2 @@
-# git-activity-logger
-Git activity logger
+# git-activity-log
+Git activity log
