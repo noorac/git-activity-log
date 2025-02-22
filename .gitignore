@@ -52,3 +52,5 @@ Mkfile.old
 dkms.conf
 
 #USER ADDED
+git_activity_logger.c
+git_activity_logger_exe
